@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seansama" alt="seansama" /></a> </p>
 
-- 🔭 I’m currently working on [Spacer](https://github.com/Seansama/Spacer)
+- 🔭 I’m currently working on [Javascript-Algorithms](https://github.com/Seansama/JavaScript-Algorithms)
 
-- 🌱 I’m currently learning **Vue.js, AI, Python**
+- 🌱 I’m currently learning **Vue.js, Node.js, Python**
 
-- 💬 Ask me about **React and Ruby on Rails**
+- 💬 Ask me about **Vue, Node.js and Ruby on Rails**
 
 - 📫 How to reach me **Shaun.n.mwangi@outlook.com**
 
