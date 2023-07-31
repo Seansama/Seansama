@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaun Mwangi</h1>
-<h3 align="center">A passionate software engineer utilizing Ruby on Rails</h3>
+<h3 align="center">An aspiring Cybersecurity Analyst and Backend developer utilizing Ruby on Rails</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seansama" alt="seansama" /></a> </p>
 
